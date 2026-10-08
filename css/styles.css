@@ -80,3 +80,6 @@ footer { text-align: center; }
     .profile-img { width: 180px; margin-bottom: 24px; }
     .work .column-wide { margin-top: 24px; }
 }
+
+.job { display: flow-root; }
+.job + .job { margin-top: 32px; }
