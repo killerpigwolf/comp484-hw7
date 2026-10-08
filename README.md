@@ -1,4 +1,4 @@
-﻿# COMP 484 - HW7 Resume Site
+﻿# CIT 384 - HW7 Resume Site
 
 HW6 plus content wrappers, consistent spacing, a circular profile image, box sizing, float-based 30/70 columns, and a mobile layout.
 
